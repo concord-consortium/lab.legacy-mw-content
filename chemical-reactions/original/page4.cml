@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Chemical Bonds: Simplified surface view of a molecule.</page_title>
+<bg_color><Red>240</Red><Green>233</Green><Blue>207</Blue></bg_color>
+<text>
+
+ 
+ 
+
+
+ 
+
+
+ 
+  
+ 
+
+
+</text>
+<section start="0" end="22">
+<paragraph start="0" end="1">
+<Alignment>1</Alignment>
+<content start="0" end="1">
+</content>
+
+</paragraph>
+<paragraph start="1" end="2">
+<Alignment>1</Alignment>
+<content start="1" end="2">
+</content>
+
+</paragraph>
+<paragraph start="2" end="4">
+<Alignment>1</Alignment>
+<content start="2" end="3">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>30</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+&lt;body&gt;
+&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;5&quot; color=&quot;#FFFFFF&quot;&gt;&lt;strong&gt;Chemical Bonds:&lt;/strong&gt; Simplified surface view of a molecule.&lt;/font&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-59a2d4</bgcolor></icon></content>
+
+<content start="3" end="4">
+</content>
+
+</paragraph>
+<paragraph start="4" end="6">
+<Alignment>1</Alignment>
+<content start="4" end="5">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>26.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;0&quot; background=&quot;topNavBarLeftMargin.jpg&quot; marginheight=&quot;0&quot;&gt;
+    &lt;table cellspacing=&quot;0&quot; width=&quot;100%&quot; id=&quot;Table_01&quot; border=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;14&quot; height=&quot;26&quot; src=&quot;topNavBarLeftMargin.jpg&quot;&gt;
+          &lt;font&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img width=&quot;60&quot; height=&quot;26&quot; src=&quot;prev.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img width=&quot;59&quot; height=&quot;26&quot; src=&quot;next.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img width=&quot;54&quot; height=&quot;26&quot; src=&quot;page.jpg&quot;&gt;
+          &lt;font&gt;&lt;a href=&quot;index.cml&quot;&gt;&lt;img width=&quot;46&quot; height=&quot;26&quot; src=&quot;index.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page1.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page2.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page3.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;img width=&quot;29&quot; height=&quot;26&quot; src=&quot;page4Selected.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page5.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page6.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page7.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page8.cml&quot;&gt;&lt;img width=&quot;29&quot; height=&quot;26&quot; src=&quot;page8.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page9.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page10.cml&quot;&gt;&lt;img width=&quot;25&quot; height=&quot;26&quot; src=&quot;page10.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;img width=&quot;7&quot; height=&quot;26&quot; src=&quot;topNavBarRightMargin.jpg&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="7">
+<Alignment>1</Alignment>
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="8">
+<Alignment>1</Alignment>
+<content start="7" end="8">
+</content>
+
+</paragraph>
+<paragraph start="8" end="10">
+<Alignment>1</Alignment>
+<content start="8" end="9">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>90</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>15</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+&lt;body marginheight=&quot;5&quot;&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;atomMainIdea.png&quot; width=&quot;98&quot; height=&quot;58&quot;&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;Different kinds of atoms are better than others at attracting electrons to themselves once they have bonded with another atom. How can we represent the degree to which atoms in a bond share electrons evenly?&lt;/font&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;  
+&lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-15235a</bgcolor></icon></content>
+
+<content start="9" end="10">
+</content>
+
+</paragraph>
+<paragraph start="10" end="11">
+<Alignment>1</Alignment>
+<content start="10" end="11">
+</content>
+
+</paragraph>
+<paragraph start="11" end="12">
+<Alignment>1</Alignment>
+<content start="11" end="12">
+</content>
+
+</paragraph>
+<paragraph start="12" end="14">
+<Alignment>1</Alignment>
+<content start="12" end="13">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>510.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+&lt;body&gt;
+    &lt;table border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;
+      &lt;tr&gt;
+        &lt;td valign=&quot;top&quot; align=&quot;left&quot;&gt;
+          &lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;This is 
+          a view of the simplest two atom molecule. In the next few pages you 
+          will explore the types of bonds that can form between two atoms. To 
+          facilitate your understanding, a simplified view of the electrons 
+          will be shown. &lt;/font&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;img height=&quot;123&quot; width=&quot;343&quot; src=&quot;surfaceDiagramComp.png&quot;&gt;
+          
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;table border=&quot;0&quot; cellpadding=&quot;5&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;div align=&quot;center&quot;&gt;
+            &lt;img height=&quot;332&quot; width=&quot;209&quot; src=&quot;surfaceChargeComp.png&quot;&gt;
+            &lt;br&gt;
+            &lt;img height=&quot;1&quot; width=&quot;1&quot; src=&quot;unevenSharing.png&quot;&gt;
+            &lt;input selfscript=&quot;snapshot unevenSharing.png&quot; value=&quot;snapshot&quot; type=&quot;submit&quot; name=&quot;button&quot; id=&quot;button&quot;&gt;
+            
+          &lt;/div&gt;
+        &lt;/td&gt;
+        &lt;td&gt;
+          &lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;The 
+          three main categories of bonds are formed when electrons are shared 
+          in varying degrees between atoms.&lt;/font&gt;
+
+          &lt;ul&gt;
+            &lt;li&gt;
+              &lt;strong&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;Non-polar 
+              covalent&lt;/font&gt;&lt;/strong&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;: 
+              completely equal or only slightly unequal sharing &lt;/font&gt;            &lt;/li&gt;
+            &lt;li&gt;
+              &lt;strong&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;Polar 
+              covalent&lt;/font&gt;&lt;/strong&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;: 
+              somewhat unequal sharing &lt;/font&gt;            &lt;/li&gt;
+            &lt;li&gt;
+              &lt;strong&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;Ionic&lt;/font&gt;&lt;/strong&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;: 
+              so imbalanced that we don&apos;t really consider the electrons to be 
+              shared, but instead they are thought of as transferred from one 
+              atom to another&lt;/font&gt;            &lt;/li&gt;
+          &lt;/ul&gt;
+          &lt;p&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;When 
+            electrons are shared evenly, the entire surface of the molecule 
+            shows no imbalance of charge. However, when electrons tend to be 
+            found closer to one atom versus another, the surface of the molecule 
+            near the atom with the better hold on the electrons becomes 
+            relatively more negative than the surface near the other atom (which 
+            becomes relatively positive).&lt;/font&gt;&lt;br&gt;
+            &lt;/p&gt;          &lt;p&gt;
+            &lt;strong&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;Electronegativity 
+            is the term used to describe how well an atom attracts electrons 
+            from another atom.&lt;/font&gt;&lt;/strong&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt; 
+            &lt;/font&gt;
+          &lt;/p&gt;        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="13" end="14">
+</content>
+
+</paragraph>
+<paragraph start="14" end="17">
+<Alignment>1</Alignment>
+<SpaceBelow>8.0</SpaceBelow>
+<content start="14" end="15">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>400.0</width>
+<height>250.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link href=&quot;chemStyles.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body style=&quot;margin-right: 20px&quot;&gt;
+    &lt;p class=&quot;firstp&quot;&gt;
+      The picture of a molecule that is colored slightly red and blue 
+      shows a bond between two atoms with one atom having a higher 
+      electronegativity than the other.
+    &lt;/p&gt;
+    &lt;p&gt;
+      &lt;font color=&quot;#660000&quot;&gt;&lt;strong&gt;Use the snapshot button above to take a 
+      picture of that molecule, and use the annotation tools ( &lt;img src=&quot;textAnnotation.gif&quot; height=&quot;15&quot; width=&quot;16&quot;&gt; 
+      &#160;&lt;img src=&quot;arrow.gif&quot; height=&quot;14&quot; width=&quot;15&quot;&gt; &#160;&lt;img src=&quot;drawRect.gif&quot; height=&quot;12&quot; width=&quot;16&quot;&gt; 
+      ) to indicate which side of the molecule is slightly negative and which 
+      side is slightly positive.&lt;/strong&gt; &lt;/font&gt;
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="15" end="16">
+<component><class>org.concord.modeler.ImageQuestion</class><width>350</width><height>250</height><title>&lt;html&gt;
+  &lt;head&gt;
+    &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;chemStyles.css&quot;&gt;
+    
+  &lt;/head&gt;
+  &lt;body class=&quot;question&quot;&gt;
+    &lt;p class=&quot;question&quot;&gt;
+      Place your annotated molecule here, showing which part is slightly 
+      positive and which part is slightly negative:
+    &lt;/p&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title><opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="16" end="17">
+</content>
+
+</paragraph>
+<paragraph start="17" end="19">
+<Alignment>1</Alignment>
+<content start="17" end="18">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>32.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body marginwidth=&quot;0&quot; background=&quot;navBarBottomBackground.jpg&quot; marginheight=&quot;0&quot;&gt;
+    &lt;table cellspacing=&quot;0&quot; width=&quot;100%&quot; id=&quot;Table_01&quot; border=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;
+          &lt;img width=&quot;14&quot; height=&quot;6&quot; src=&quot;navBarBottomColorBar.gif&quot;&gt;
+          
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;8&quot; height=&quot;26&quot; src=&quot;navBarBottomLeftMargin.jpg&quot;&gt;
+          &lt;font&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img width=&quot;60&quot; height=&quot;26&quot; src=&quot;prev.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img width=&quot;59&quot; height=&quot;26&quot; src=&quot;next.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img width=&quot;54&quot; height=&quot;26&quot; src=&quot;page.jpg&quot;&gt;
+          &lt;font&gt;&lt;a href=&quot;index.cml&quot;&gt;&lt;img width=&quot;46&quot; height=&quot;26&quot; src=&quot;index.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page1.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page2.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page3.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;img width=&quot;29&quot; height=&quot;26&quot; src=&quot;page4Selected.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page5.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page6.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page7.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page8.cml&quot;&gt;&lt;img width=&quot;29&quot; height=&quot;26&quot; src=&quot;page8.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;img width=&quot;28&quot; height=&quot;26&quot; src=&quot;page9.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page10.cml&quot;&gt;&lt;img width=&quot;25&quot; height=&quot;26&quot; src=&quot;page10.jpg&quot; border=&quot;0&quot;&gt;
+          &lt;/a&gt;&lt;img width=&quot;7&quot; height=&quot;26&quot; src=&quot;navBarBottomRightMargin.jpg&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="18" end="19">
+</content>
+
+</paragraph>
+<paragraph start="19" end="20">
+<Alignment>1</Alignment>
+<content start="19" end="20">
+</content>
+
+</paragraph>
+<paragraph start="20" end="21">
+<content start="20" end="21">
+<size>10</size></content>
+
+</paragraph>
+<paragraph start="21" end="22">
+</paragraph>
+</section>
+</document>

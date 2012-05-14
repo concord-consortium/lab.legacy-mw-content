@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+<language>UTF-8</language>
+<page_title>Chemical Bonds: Extending predictions to larger molecules.</page_title>
+<bg_color><Red>240</Red><Green>233</Green><Blue>207</Blue></bg_color>
+<text>
+
+ 
+ 
+
+ 
+
+
+ 
+          
+Drag or shift-drag over the above molecules to rotate and zoom them.
+ 
+ 
+      
+ 
+
+
+</text>
+<section start="0" end="109">
+<paragraph start="0" end="1">
+<Alignment>1</Alignment>
+<content start="0" end="1">
+</content>
+
+</paragraph>
+<paragraph start="1" end="2">
+<Alignment>1</Alignment>
+<content start="1" end="2">
+</content>
+
+</paragraph>
+<paragraph start="2" end="4">
+<Alignment>1</Alignment>
+<content start="2" end="3">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>30</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>5</cornerarc><title>&lt;html&gt;
+&lt;body&gt;
+&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;5&quot; color=&quot;#FFFFFF&quot;&gt;&lt;strong&gt;Chemical Bonds:&lt;/strong&gt; Extending predictions to larger molecules.&lt;/font&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-59a2d4</bgcolor></icon></content>
+
+<content start="3" end="4">
+</content>
+
+</paragraph>
+<paragraph start="4" end="6">
+<Alignment>1</Alignment>
+<content start="4" end="5">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>26.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body background=&quot;topNavBarLeftMargin.jpg&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    &lt;table width=&quot;100%&quot; cellspacing=&quot;0&quot; border=&quot;0&quot; id=&quot;Table_01&quot; cellpadding=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;14&quot; height=&quot;26&quot; src=&quot;topNavBarLeftMargin.jpg&quot;&gt;
+          &lt;font&gt;&lt;a href=&quot;page11.cml&quot;&gt;&lt;img width=&quot;60&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;prev.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page13.cml&quot;&gt;&lt;img width=&quot;59&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;next.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img width=&quot;54&quot; height=&quot;26&quot; src=&quot;page.jpg&quot;&gt;
+          &lt;font&gt;&lt;a href=&quot;index.cml&quot;&gt;&lt;img width=&quot;46&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;index.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;font&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page1.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;font&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page2.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page3.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;img width=&quot;29&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page4.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page5.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page6.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page7.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page8.cml&quot;&gt;&lt;img width=&quot;29&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page8.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page9.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page10.cml&quot;&gt;&lt;img width=&quot;25&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page10.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page11.cml&quot;&gt;&lt;img width=&quot;27&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page11.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page12.cml&quot;&gt;&lt;img width=&quot;27&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page12Selected.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page13.cml&quot;&gt;&lt;img width=&quot;27&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page13.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;img width=&quot;7&quot; height=&quot;26&quot; src=&quot;topNavBarRightMargin.jpg&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="5" end="6">
+</content>
+
+</paragraph>
+<paragraph start="6" end="7">
+<Alignment>1</Alignment>
+<content start="6" end="7">
+</content>
+
+</paragraph>
+<paragraph start="7" end="9">
+<Alignment>1</Alignment>
+<content start="7" end="8">
+<icon><class>org.concord.modeler.text.LineIcon</class><width>750.0</width><height>85</height><arcwidth>10</arcwidth><archeight>10</archeight><cornerarc>15</cornerarc><title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+&lt;body marginheight=&quot;5&quot;&gt;
+&lt;table border=&quot;0&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+  &lt;tr&gt;
+    &lt;td&gt;&lt;img src=&quot;atomMainIdea.png&quot; width=&quot;98&quot; height=&quot;58&quot;&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;font face=&quot;Verdana, Arial, Helvetica, sans-serif&quot; size=&quot;4&quot;&gt;Polarity of single bonds within larger molecules can make the entire molecule polar or non-polar. By studying how pairs of atoms bond together it can help you to design more complex molecules with specific properties.&lt;/font&gt;&lt;/td&gt;
+  &lt;/tr&gt;
+&lt;/table&gt;  
+&lt;/body&gt;
+&lt;/html&gt;
+</title><bgcolor>-15235a</bgcolor></icon></content>
+
+<content start="8" end="9">
+</content>
+
+</paragraph>
+<paragraph start="9" end="10">
+<Alignment>1</Alignment>
+<content start="9" end="10">
+</content>
+
+</paragraph>
+<paragraph start="10" end="11">
+<Alignment>1</Alignment>
+<content start="10" end="11">
+</content>
+
+</paragraph>
+<paragraph start="11" end="13">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="11" end="12">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>160.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;table cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; border=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;font size=&quot;4&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt;Below 
+          are two molecules. The one on the left is made by bonding carbon to 
+          carbon (C-C) and carbon to hydrogen (C-H). The electronegativity 
+          difference in both of these bonding pairs (C&amp;#160;-&amp;#160;C&amp;#160;=&amp;#160;0 and 
+          C&amp;#160;-&amp;#160;H&amp;#160;=&amp;#160;0.45) falls into the non-polar range. Because all the bonds 
+          in pentane are non-polar, pentane is non-polar. The only difference 
+          in &lt;/font&gt;
+        &lt;/td&gt;
+        &lt;td valign=&quot;middle&quot;&gt;
+          &lt;img width=&quot;218&quot; src=&quot;bondTableComp.png&quot; height=&quot;86&quot;&gt;
+          
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;
+          &lt;font size=&quot;4&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt;1-pentanol 
+          is that an oxygen is added. However, this causes two new bonding 
+          pairs: oxygen-carbon and oxygen-hydrogen. The electronegativity 
+          difference here causes the bonds to be polar (O&amp;#160;-&amp;#160;C&amp;#160;=&amp;#160;0.89 and 
+          O&amp;#160;-&amp;#160;H&amp;#160;=&amp;#160;1.34), so the molecule is considered to be polar. &lt;/font&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="12" end="13">
+</content>
+
+</paragraph>
+<paragraph start="13" end="24">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="13" end="14">
+<component><class>org.concord.modeler.PageMolecularViewer</class>
+<script>add image pentaneComp.png (75,5); moveto 0.0 { -17 505 863 38.7} 78.3 1.8 20.4 {4.46 0.16149986 -8.565499} 4.7; isosurface reversecolor colorscheme &quot;rwb&quot; solvent 0.1 resolution 6 map mep; color isosurface translucent;</script><menubar>false</menubar><toolbar>false</toolbar><statusbar>false</statusbar><resource>pentane.mol2</resource><state>page12$0.jms</state><width>329.0</width>
+<height>293.0</height>
+<border>Lowered Bevel</border>
+</component></content>
+
+<content start="14" end="22">
+</content>
+
+<content start="22" end="23">
+<component><class>org.concord.modeler.PageMolecularViewer</class>
+<script>add image pentanolComp.png (65,5); moveto 0.0 { -1000 -11 22 173.6} 80.0 -1.5 20.1 {12.19285 -10.99115 -1.0716001} 5.3; isosurface reversecolor colorscheme &quot;rwb&quot; solvent 0.1 resolution 6 map mep; color isosurface translucent;</script><menubar>false</menubar><toolbar>false</toolbar><statusbar>false</statusbar><resource>1pentanol.mol2</resource><state>page12$1.jms</state><width>329.0</width>
+<height>293.0</height>
+<border>Lowered Bevel</border>
+</component></content>
+
+<content start="23" end="24">
+</content>
+
+</paragraph>
+<paragraph start="24" end="93">
+<SpaceBelow>20.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="24" end="93">
+<foreground>153 0 0</foreground><bold>true</bold><size>14</size></content>
+
+</paragraph>
+<paragraph start="93" end="95">
+<SpaceBelow>10.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="93" end="94">
+<icon>elecTable.png</icon></content>
+
+<content start="94" end="95">
+</content>
+
+</paragraph>
+<paragraph start="95" end="97">
+<SpaceBelow>5.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="95" end="96">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>310.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;table width=&quot;100%&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot; border=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td width=&quot;35%&quot;&gt;
+          &lt;font size=&quot;4&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt;The 
+          proteins in your body are made by linking up 20 different kinds 
+          amino acids to form very large molecules. Some proteins end up stuck 
+          in the cell membranes. Those proteins typically have a polar section 
+          which interacts with the water inside and outside of the cell, as 
+          well as a non-polar section &lt;/font&gt;
+        &lt;/td&gt;
+        &lt;td width=&quot;30%&quot; align=&quot;right&quot;&gt;
+          &lt;img width=&quot;228&quot; src=&quot;glutamine.gif&quot; height=&quot;170&quot;&gt;
+          
+        &lt;/td&gt;
+        &lt;td width=&quot;35%&quot; align=&quot;left&quot;&gt;
+          &lt;img width=&quot;250&quot; src=&quot;phenylalanine.gif&quot; height=&quot;170&quot;&gt;
+          
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+    &lt;font size=&quot;4&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt;which spans 
+    the actual cell membrane. Above are two of the 20 types of amino acids, 
+    the main difference being in their sidechains which give the amino acids 
+    their properties. Use the electronegativity table above to determine if 
+    the sidechains are polar or non-polar. In other words, &lt;/font&gt;&lt;strong&gt;&lt;font size=&quot;4&quot; color=&quot;#000000&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt;are 
+    there any polar bonds in the sidechains or are all of the bonds non-polar?&lt;/font&gt;&lt;font size=&quot;4&quot; color=&quot;#990000&quot; face=&quot;Verdana, Arial, Helvetica, sans-serif&quot;&gt; 
+    Right-click (or control-click) on the amino acids and use the annotation 
+    tools to highlight any polar bonds you find in the sidechains. Describe 
+    why you picked those bonds to be polar or non-polar in the text area below 
+    the image. &lt;/font&gt;&lt;/strong&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="96" end="97">
+</content>
+
+</paragraph>
+<paragraph start="97" end="104">
+<SpaceBelow>8.0</SpaceBelow>
+<Alignment>1</Alignment>
+<content start="97" end="98">
+<component><class>org.concord.modeler.PageMultipleChoice</class>
+<single>true</single>
+<row>3</row>
+<width>360</width>
+<height>140</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body bgcolor=&quot;rgb(230, 230, 230)&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    &lt;strong&gt;&lt;font size=&quot;4&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt;Which amino 
+    acid would be good to use in the part of the protein that spans the cell 
+    membrane?&lt;/font&gt;&lt;/strong&gt;&lt;font size=&quot;4&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt; 
+    &lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<choice>glutamine</choice>
+<choice>phenylalanine</choice>
+<choice>either would work well</choice>
+<answer>1</answer>
+<bgcolor>-373738</bgcolor>
+<border>Line</border>
+<script> -choiceseparator-  -choiceseparator- </script>
+</component></content>
+
+<content start="98" end="102">
+</content>
+
+<content start="102" end="103">
+<component><class>org.concord.modeler.PageTextArea</class>
+<width>370</width>
+<height>140</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body bgcolor=&quot;rgb(230, 230, 230)&quot; marginwidth=&quot;5&quot; marginheight=&quot;5&quot;&gt;
+    &lt;strong&gt;&lt;font size=&quot;4&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt;Explain why you 
+    made that choice.&lt;/font&gt;&lt;/strong&gt;&lt;font size=&quot;4&quot; face=&quot;Arial, Helvetica, sans-serif&quot;&gt; 
+    &lt;/font&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+<border>Line</border>
+</component></content>
+
+<content start="103" end="104">
+</content>
+
+</paragraph>
+<paragraph start="104" end="106">
+<Alignment>1</Alignment>
+<content start="104" end="105">
+<component><class>org.concord.modeler.PageTextBox</class>
+<width>750.0</width>
+<height>32.0</height>
+<title>&lt;html&gt;
+  &lt;head&gt;
+    
+  &lt;/head&gt;
+  &lt;body background=&quot;navBarBottomBackground.jpg&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot;&gt;
+    &lt;table width=&quot;100%&quot; cellspacing=&quot;0&quot; border=&quot;0&quot; id=&quot;Table_01&quot; cellpadding=&quot;0&quot;&gt;
+      &lt;tr&gt;
+        &lt;td colspan=&quot;2&quot;&gt;
+          &lt;img width=&quot;14&quot; height=&quot;6&quot; src=&quot;navBarBottomColorBar.gif&quot;&gt;
+          
+        &lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+        &lt;td&gt;
+          &lt;img width=&quot;8&quot; height=&quot;26&quot; src=&quot;navBarBottomLeftMargin.jpg&quot;&gt;
+          &lt;font&gt;&lt;a href=&quot;page11.cml&quot;&gt;&lt;img width=&quot;60&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;prev.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page13.cml&quot;&gt;&lt;img width=&quot;59&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;next.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;
+        &lt;/td&gt;
+        &lt;td align=&quot;right&quot;&gt;
+          &lt;img width=&quot;54&quot; height=&quot;26&quot; src=&quot;page.jpg&quot;&gt;
+          &lt;font&gt;&lt;a href=&quot;index.cml&quot;&gt;&lt;img width=&quot;46&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;index.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;font&gt;&lt;a href=&quot;page1.cml&quot;&gt;&lt;img height=&quot;26&quot; border=&quot;0&quot; width=&quot;28&quot; src=&quot;page1.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;font&gt;&lt;a href=&quot;page2.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page2.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page3.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page3.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page4.cml&quot;&gt;&lt;img width=&quot;29&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page4.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page5.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page5.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page6.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page6.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page7.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page7.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page8.cml&quot;&gt;&lt;img width=&quot;29&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page8.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page9.cml&quot;&gt;&lt;img width=&quot;28&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page9.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page10.cml&quot;&gt;&lt;img width=&quot;25&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page10.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page11.cml&quot;&gt;&lt;img width=&quot;27&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page11.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page12.cml&quot;&gt;&lt;img width=&quot;27&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page12Selected.jpg&quot;&gt;
+          &lt;/a&gt;&lt;a href=&quot;page13.cml&quot;&gt;&lt;img width=&quot;27&quot; border=&quot;0&quot; height=&quot;26&quot; src=&quot;page13.jpg&quot;&gt;
+          &lt;/a&gt;&lt;/font&gt;&lt;img width=&quot;7&quot; height=&quot;26&quot; src=&quot;navBarBottomRightMargin.jpg&quot;&gt;
+        &lt;/td&gt;
+      &lt;/tr&gt;
+    &lt;/table&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</title>
+<opaque>false</opaque>
+</component></content>
+
+<content start="105" end="106">
+</content>
+
+</paragraph>
+<paragraph start="106" end="107">
+<Alignment>1</Alignment>
+<content start="106" end="107">
+</content>
+
+</paragraph>
+<paragraph start="107" end="108">
+<content start="107" end="108">
+<size>10</size></content>
+
+</paragraph>
+<paragraph start="108" end="109">
+</paragraph>
+</section>
+</document>
