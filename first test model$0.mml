@@ -315,7 +315,7 @@
    <object class="org.concord.mw2d.models.LightSource"/> 
   </void> 
   <void property="numberOfParticles"> 
-   <int>2</int> 
+   <int>3</int> 
   </void> 
   <void property="properties"> 
    <void method="put"> 
@@ -393,6 +393,14 @@
   </void> 
   <void property="ry"> 
    <double>127.0</double> 
+  </void> 
+ </object> 
+  <object class="org.concord.mw2d.models.Atom"> 
+  <void property="rx"> 
+   <double>179.0</double> 
+  </void> 
+  <void property="ry"> 
+   <double>137.0</double> 
   </void> 
  </object> 
  <object class="org.concord.mw2d.models.MolecularModel$State"/> 
